@@ -16,6 +16,7 @@ Currently it consists of:
    * Google - using Google Maps API v3;
    * Yandex - using Yandex Maps API v2;
    * Bing - with proper attribution.
+   * MapMyIndia - highly experimental
 
 All these providers are implemented with respect to terms of use.
 
